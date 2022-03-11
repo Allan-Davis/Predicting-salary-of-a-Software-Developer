@@ -6,7 +6,8 @@ Provided a screen-snip of the working streamlut web applicationfor the same.
 The User is supposed to select the country of his preference, the education level and his or her years of expereince, then,
 calculate the amounted expected as the salary per annum in Kenyan Shillings for a software developer.
 
-/////////////////////////////////////////////////////////t/h/e//d/a/v/i/s//g/e/n/e/r/a/t/i/o/n/////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////t/h/e//d/a/v/i/s//g/e/n/e/r/a/t/i/o/n////////////////////////////////////////////////////////////////
+
 The country, education level and years ofexperience are the key facors to affecting the amount of salary a developer earns.
 
 
